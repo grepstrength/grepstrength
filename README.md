@@ -1,16 +1,15 @@
-## Hi there 👋
+# whoami
 
-<!--
-**grepstrength/grepstrength** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cyber Threat Intelligence Analyst
+I work as a CTI analyst, following the cyber threat intelligence life cycle to disseminate actionable intelligence to key stakeholders about emerging and established threats. I have a strong adversarial mindset, and I spend as much time practicing offensive security as I do defensive security.
 
-Here are some ideas to get you started:
+# ifconfig
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+I have a background in cloud administration, incident response, forensics, and malware analysis. 
+
+## Certifications (Owned)
+[HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/) | [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/)
+
+## Certifications (In Progress)
+[CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [CDSA](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
