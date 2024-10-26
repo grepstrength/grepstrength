@@ -1,7 +1,7 @@
 # whoami
 
 ## Cyber Threat Intelligence Analyst
-I work as a CTI analyst, following the cyber threat intelligence life cycle to disseminate actionable intelligence to key stakeholders about emerging and established threats. I have a strong adversarial mindset, and I spend as much time practicing offensive security as I do defensive security.
+I work as a CTI analyst, following the cyber threat intelligence life cycle to disseminate actionable intelligence to key stakeholders about emerging and established cyber threats. I have a strong adversarial mindset, and I spend as much time practicing offensive security as I do defensive security.
 
 # ifconfig
 
