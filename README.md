@@ -12,4 +12,4 @@ I have a background in incident response but I've acquired multiple other skills
 [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/) | [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/)
 
 ## Certifications (In Progress)
-[CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [CDSA](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
+[Zero2Automated](https://www.0ffset.net/training/zero2auto/) [CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [CDSA](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
