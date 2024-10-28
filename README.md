@@ -6,7 +6,7 @@ I work as a CTI analyst, following the cyber threat intelligence life cycle to d
 # ifconfig
 
 ## Skills
-I have a background in incident response but I've acquired multiple other skills over the years, including digital forensics, malware analysis, cyber threat intelligence, ethical hacking, AI and LLM engineering, and Golang. 
+I have a background in incident response but I've acquired multiple other skills over the years, including cyber threat intelligence, digital forensics, malware analysis, ethical hacking, AI and LLM engineering, and Golang. 
 
 ## Certifications (Owned)
 [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/) | [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/)
