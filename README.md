@@ -9,7 +9,7 @@ I work as a CTI analyst, following the cyber threat intelligence life cycle to d
 I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including malware analysis, ethical hacking, AI and LLM engineering, and programming/scripting (Python, Go, and Rust). 
 
 ## Certifications (Owned)
-[CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/) | [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/)
+[CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/) | [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/) | AI-900 | AZ-900
 
 ## Certifications (In Progress)
-[Zero2Automated](https://www.0ffset.net/training/zero2auto/) | [CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [CDSA](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
+[Zero2Automated](https://www.0ffset.net/training/zero2auto/) | [CDSA](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
