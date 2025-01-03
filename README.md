@@ -10,3 +10,6 @@ I have a background in DFIR and CTI but I've acquired multiple other skills over
 
 ## Certifications 
 [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/) | [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/) | [AI-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification) | [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+
+## Currently Studying
+[Zero2Automated](https://institute.sektor7.net/red-team-operator-malware-development-essentials) | [Sektor7 Malware Developmemt Essentials](https://institute.sektor7.net/red-team-operator-malware-development-essentials) | [Building GUI Applications with Fyne and Go](https://www.udemy.com/course/building-gui-applications-with-fyne-and-go-golang/?srsltid=AfmBOorwqN0-BHQLgww_1ks7hk52Z6suxTJv5zJgKA6GiUQ9-Dl40SVk)
