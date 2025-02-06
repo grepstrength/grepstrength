@@ -15,4 +15,4 @@ I have a background in DFIR and CTI but I've acquired multiple other skills over
 [HTB CDA](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst) | [HTB CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [Zero2Automated](https://courses.zero2auto.com/adv-malware-analysis-course) | [Sektor7 Malware Development Essentials](https://institute.sektor7.net/red-team-operator-malware-development-essentials) | [Building GUI Applications with Fyne and Go](https://www.udemy.com/course/building-gui-applications-with-fyne-and-go-golang/?srsltid=AfmBOorwqN0-BHQLgww_1ks7hk52Z6suxTJv5zJgKA6GiUQ9-Dl40SVk)
 
 ## Projects
-HTB Malware Analysis Sherlock - [Loggy](https://app.hackthebox.com/sherlocks/Loggy)
+HTB Malware Analysis Sherlock - [Loggy](https://app.hackthebox.com/sherlocks/Loggy) | Ollama Local GenAI Model - [what-the-sigma](https://ollama.com/grepStrength/what-the-sigma)
