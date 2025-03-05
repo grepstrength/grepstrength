@@ -9,7 +9,21 @@ I work as a CTI analyst, following the cyber threat intelligence life cycle to d
 I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including malware analysis, ethical hacking, AI and LLM engineering, and programming/scripting (primarily Go). 
 
 ## Certifications 
-[HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/) | [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/) | [AI-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification) | [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+Offensive Security - 
+[HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/) 
+
+Defensive Security - 
+[GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/)
+
+Cloud - 
+[AI-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification) | [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) | [CCSK](https://cloudsecurityalliance.org/education/ccsk)
+
+ICS - 
+[GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/)
+
+GRC - 
+[CCZT](https://cloudsecurityalliance.org/education/cczt?gad_source=1)
+
 
 ## Currently Studying
 [HTB AI Red Teamer Path](https://academy.hackthebox.com/path/preview/ai-red-teamer) | [Sektor7 Malware Development Essentials](https://institute.sektor7.net/red-team-operator-malware-development-essentials)
