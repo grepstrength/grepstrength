@@ -1,12 +1,15 @@
 # whoami
 
-## Cyber Threat Intelligence Analyst
-I work as a CTI analyst, following the cyber threat intelligence life cycle to disseminate actionable intelligence to key stakeholders about emerging and established cyber threats. I have a strong adversarial mindset, and I spend as much time practicing offensive security as I do defensive security.
+## Cyber Risk Analyst
+I work as a cyber risk analyst, where I perform risk assessments and report findings for various infrastructure and application configuration. I also architect, develop, and administer an enterprise risk register. 
+
+## Security Researcher
+I also work as a freelance security researcher, where I test applications and infrastructure for vulnerabilities to report to clients. I also reverse engineer malware samples to share IOCs, artifacts, and TTPs for public intel consumption.
 
 # systeminfo
 
 ## Skills
-I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including malware analysis, ethical hacking, AI and LLM engineering, and programming/scripting (primarily Go). 
+I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including risk analysis, malware analysis, ethical hacking, AI and LLM engineering, and programming/scripting (primarily Go). 
 
 ## Certifications 
 Offensive Security - 
