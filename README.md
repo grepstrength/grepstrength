@@ -4,12 +4,12 @@
 I work as a cyber risk analyst, where I perform risk assessments and report findings for various infrastructure and application configurations. I also architect, develop, and administer an enterprise risk register. 
 
 ## Security Researcher
-I ***also*** work as a freelance security researcher, where I test applications and infrastructure for vulnerabilities to report to clients. I also reverse engineer malware samples to share IOCs, artifacts, and TTPs for public threat intelligence consumption.
+I ***also*** work as a freelance security researcher, where I test applications and infrastructure for vulnerabilities to report to clients. I also develop and reverse engineer malware to share IOCs, artifacts, and TTPs for public threat intelligence consumption.
 
 # systeminfo
 
 ## Skills
-I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including risk analysis, malware analysis, ethical hacking, AI and LLM engineering, and programming/scripting (primarily Go). 
+I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including risk analysis, malware research, ethical hacking, AI and LLM engineering, and programming/scripting (primarily Go). 
 
 ## Certifications 
 Offensive Security - 
