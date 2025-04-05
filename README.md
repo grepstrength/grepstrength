@@ -29,7 +29,7 @@ GRC -
 
 
 ## Currently Studying
-White Knight Labs - [Offensive Development Practitioner Certification](https://training.whiteknightlabs.com/certifications/offensive-development-practitioner-certification/)
+White Knight Labs - [Offensive Development Practitioner Certification (ODPC)](https://training.whiteknightlabs.com/certifications/offensive-development-practitioner-certification/)
 
 ## Projects
 HTB Malware Analysis Sherlock - [Loggy](https://app.hackthebox.com/sherlocks/Loggy) | Ollama Local GenAI Model - [what-the-sigma](https://ollama.com/grepStrength/what-the-sigma)
