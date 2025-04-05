@@ -29,7 +29,7 @@ GRC -
 
 
 ## Currently Studying
-[HTB AI Red Teamer Path](https://academy.hackthebox.com/path/preview/ai-red-teamer) | [Sektor7 Malware Development Essentials](https://institute.sektor7.net/red-team-operator-malware-development-essentials)
+White Knight Labs - [Offensive Development Practitioner Certification](https://training.whiteknightlabs.com/certifications/offensive-development-practitioner-certification/)
 
 ## Projects
 HTB Malware Analysis Sherlock - [Loggy](https://app.hackthebox.com/sherlocks/Loggy) | Ollama Local GenAI Model - [what-the-sigma](https://ollama.com/grepStrength/what-the-sigma)
