@@ -27,9 +27,5 @@ ICS -
 GRC - 
 [CCZT](https://cloudsecurityalliance.org/education/cczt?gad_source=1)
 
-
-## Currently Studying
-White Knight Labs - [Offensive Development Practitioner Certification (ODPC)](https://training.whiteknightlabs.com/certifications/offensive-development-practitioner-certification/) | White Knight Labs - [Attacking & Securiy CI/CD Pipelines Certification](https://training.whiteknightlabs.com/ascpc-certification/)
-
 ## Projects
 HTB Malware Analysis Sherlock - [Loggy](https://app.hackthebox.com/sherlocks/Loggy) | Ollama Local GenAI Model - [what-the-sigma](https://ollama.com/grepStrength/what-the-sigma)
