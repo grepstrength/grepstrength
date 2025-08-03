@@ -13,7 +13,7 @@ I have a background in DFIR and CTI but I've acquired multiple other skills over
 
 ## Certifications 
 Offensive Security - 
-[HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/) 
+[HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [COWA](https://redteamleaders.coursestack.com/exams/f1227a83-d041-4949-a3c6-9c5411ceb1ee) | [C-AI/MLPen](https://secops.group/product/certified-ai-ml-pentester/) 
 
 Defensive Security - 
 [GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/)
