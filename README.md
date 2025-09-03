@@ -28,4 +28,4 @@ GRC -
 [CCZT](https://cloudsecurityalliance.org/education/cczt?gad_source=1)
 
 ## Projects
-HTB Malware Analysis Sherlock - [Loggy](https://app.hackthebox.com/sherlocks/Loggy) | Ollama Local GenAI Model - [what-the-sigma](https://ollama.com/grepStrength/what-the-sigma)
+HTB Malware Analysis Sherlock - [Loggy](https://app.hackthebox.com/sherlocks/Loggy) & [Malevolent ModMaker](https://app.hackthebox.com/sherlocks/Malevolent%20ModMaker) | Ollama Local GenAI Model - [what-the-sigma](https://ollama.com/grepStrength/what-the-sigma)
