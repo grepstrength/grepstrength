@@ -1,7 +1,7 @@
 # whoami
 
 ## Cyber Risk Analyst
-I work as a cyber risk analyst, where I perform risk assessments and report findings for various infrastructure and application configurations. I also architect, develop, and administer an enterprise risk register. 
+I work as a cyber security and risk analyst, where I perform risk assessments and report findings for various infrastructure and application configurations. I also reverse engineer software binaries to assess third-party risk to the organization. 
 
 ## Security Researcher
 I ***also*** work as a freelance security researcher, where I test applications and infrastructure for vulnerabilities to report to clients. I also develop and reverse engineer malware to share IOCs, artifacts, and TTPs for public threat intelligence consumption.
