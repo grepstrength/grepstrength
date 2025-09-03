@@ -1,6 +1,6 @@
 # whoami
 
-## Cyber Risk Analyst
+## Cyber Security Analyst
 I work as a cyber security and risk analyst, where I perform risk assessments and report findings for various infrastructure and application configurations. I also reverse engineer software binaries to assess third-party risk to the organization. 
 
 ## Security Researcher
