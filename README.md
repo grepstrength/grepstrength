@@ -18,8 +18,8 @@ Offensive Security -
 Defensive Security - 
 [GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/)
 
-Cloud - 
-[AI-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification) | [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) | [CCSK](https://cloudsecurityalliance.org/education/ccsk)
+Cloud & AI - 
+[AI-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification) | [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) | [CCSK](https://cloudsecurityalliance.org/education/ccsk) | [TAISE](https://cloudsecurityalliance.org/education/taise)
 
 ICS - 
 [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/)
