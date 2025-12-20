@@ -1,7 +1,7 @@
 # whoami
 
 ## Cyber Security Analyst
-I work as a cyber security and risk analyst, where I perform risk assessments and report findings for various infrastructure and application configurations. I also reverse engineer software binaries and dynamically analyze their behavior to assess third-party software supply chain risk to the organization. 
+I work as a cyber security and risk analyst, where I perform risk assessments and report findings for various infrastructure and application configurations. I also reverse engineer software binaries and dynamically analyze their behavior to assess third-party software supply chain risk to the organization. Lastly, I also develop applications to assist in GRC-related workflows. 
 
 ## Security Researcher
 I ***also*** work as a freelance security researcher, where I develop and reverse engineer malware to share IOCs, artifacts, and TTPs for public threat intelligence consumption.
