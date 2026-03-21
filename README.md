@@ -1,15 +1,15 @@
 # whoami
 
-## Cyber Security Analyst
-I work as a cyber security and risk analyst, where I perform risk assessments and report findings for various infrastructure and application configurations. I also reverse engineer software binaries and dynamically analyze their behavior to assess third-party software supply chain risk to the organization. Lastly, I also develop applications to assist in GRC-related workflows. 
+## GRC Engineer
+I erve as a GRC engineer, integrating security and compliance systems to automate control validation and enforce policy adherence. I perform comprehensive risk assessments and report findings across infrastructure and application configurations. I also reverse engineer software binaries and dynamically analyze their behavior to assess third-party software supply chain risk to the organization. Lastly, I also develop applications to assist in GRC-related workflows. 
 
 ## Security Researcher
-I ***also*** work as a freelance security researcher, where I develop and reverse engineer malware to share IOCs, artifacts, and TTPs for public threat intelligence consumption.
+I ***also*** work as a freelance security researcher, where I test application and infrastructure for vulnerabilities. I also develop and reverse engineer malware to share IOCs, artifacts, and TTPs for public threat intelligence consumption.
 
 # systeminfo
 
 ## Skills
-I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including risk analysis, malware research, ethical hacking, AI and LLM engineering, and programming/scripting (primarily Go). 
+I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including risk analysis, malware research, ethical hacking, AI and LLM engineering, GRC engineering, and programming/scripting (primarily Go). 
 
 ## Certifications 
 Offensive Security - 
