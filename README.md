@@ -4,7 +4,7 @@
 I work as a GRC engineer, integrating security and compliance systems to automate control validation and enforce policy adherence. I perform comprehensive risk assessments and report findings across infrastructure and application configurations. I also reverse engineer software binaries and dynamically analyze their behavior to assess third-party software supply chain risk to the organization. Lastly, I also develop applications to assist in GRC-related workflows. 
 
 ## Security Researcher
-I ***also*** work as an independent security researcher, where I test application and infrastructure for vulnerabilities. I also develop security tooling and malware analysis labs.
+I ***also*** work as an independent security researcher, where I test applications and infrastructure for vulnerabilities. I also develop security tooling and malware analysis labs.
 
 # systeminfo
 
