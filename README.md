@@ -12,6 +12,9 @@ I ***also*** work as an independent security researcher, where I test applicatio
 I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including risk analysis, malware research, ethical hacking, AI and LLM engineering, GRC engineering, and programming/scripting (primarily Go). 
 
 ## Certifications 
+Defensive Security - 
+[GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/)
+
 Offensive Security - 
 [HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
