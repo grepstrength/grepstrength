@@ -15,11 +15,14 @@ I have a background in DFIR and CTI but I've acquired multiple other skills over
 Offensive Security - 
 [HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
-Defensive Security - 
-[GCTI](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/)
+Cloud & AI - 
+[CCSK](https://cloudsecurityalliance.org/education/ccsk) | [TAISE](https://cloudsecurityalliance.org/education/taise)
 
 ICS - 
 [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/)
+
+GRC - 
+[CCZT](https://cloudsecurityalliance.org/education/cczt?gad_source=1)
 
 ## Projects
 HTB Malware Analysis Sherlock - [Loggy](https://app.hackthebox.com/sherlocks/Loggy) & [Malevolent ModMaker](https://app.hackthebox.com/sherlocks/Malevolent%20ModMaker)
