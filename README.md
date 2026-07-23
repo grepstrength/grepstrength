@@ -24,7 +24,7 @@ Cloud & AI -
 ICS - 
 [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/)
 
-GRC - 
+Security Architecture - 
 [CCZT](https://cloudsecurityalliance.org/education/cczt?gad_source=1)
 
 ## Projects
