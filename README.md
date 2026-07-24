@@ -9,7 +9,7 @@ I ***also*** work as an independent security researcher, where I test applicatio
 # systeminfo
 
 ## Skills
-I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including risk analysis, malware research, ethical hacking, AI and LLM engineering, GRC engineering, and programming/scripting (primarily Go). 
+I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including risk analysis, malware research, ethical hacking, AI and LLM engineering, GRC engineering, and programming/scripting (primarily Go & HCL). 
 
 ## Certifications 
 Defensive Security - 
