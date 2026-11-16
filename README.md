@@ -9,7 +9,7 @@ I ***also*** work as an independent security researcher, where I test applicatio
 # systeminfo
 
 ## CVEs and Credited Research
-- **[Microsoft Security Response Center (MSRC)](https://msrc.microsoft.com/special-mention)** - Special Mention Acknowledgment (2026): vulnerability reported under Coordinated Vulnerability Disclosure *(technical details pending disclosure clearance)*.
+- **[Microsoft Security Response Center (MSRC)](https://msrc.microsoft.com/special-mention)** - Special Mention Acknowledgment (2027 - Jul '26 to Jun '27): vulnerability reported under Coordinated Vulnerability Disclosure *(technical details pending disclosure clearance)*.
 - **[CVE-2026-92680](https://www.cve.org/CVERecord?id=CVE-2026-92680)** - Araxis Merge (Windows) 2011.4074–2026.0: server credentials stored via DPAPI without entropy, recoverable in plaintext from the user's context. CWE-522, CVSS 5.5. ([Write-up](https://grepstrength.com/research/araxis-merge) | [PoC](https://github.com/grepstrength/CVE-2026-92680) | [Advisory](https://www.araxis.com/merge/release-notes-2026#Merge-SA-26-00))
 
 ## Projects
