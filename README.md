@@ -9,7 +9,7 @@ I ***also*** work as an independent security researcher, where I test applicatio
 # systeminfo
 
 ## CVEs and Credited Research
-- **[MSRC Special Mention (2026)](https://msrc.microsoft.com/special-mention)** - Recognized by Microsoft for a validated vulnerability reported under Coordinated Vulnerability Disclosure *(details pending release)*.
+- **[MSRC Special Mentions (2026)](https://msrc.microsoft.com/special-mention)** - Recognized by Microsoft, as "Kelvin Winborne (grepStrength), for a validated vulnerability reported under Coordinated Vulnerability Disclosure *(details pending release)*.
 - **[CVE-2026-92680](https://www.cve.org/CVERecord?id=CVE-2026-92680)** - Araxis Merge (Windows) 2011.4074–2026.0: server credentials stored via DPAPI without entropy, recoverable in plaintext from the user's context. CWE-522, CVSS 5.5. ([Write-up](https://grepstrength.com/research/araxis-merge) | [PoC](https://github.com/grepstrength/CVE-2026-92680) | [Advisory](https://www.araxis.com/merge/release-notes-2026#Merge-SA-26-00))
 
 ## Projects
