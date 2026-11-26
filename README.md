@@ -1,10 +1,23 @@
 # whoami
 
-## GRC Engineer
-I work as a GRC engineer, integrating security and compliance systems to automate control validation and enforce policy adherence. I perform comprehensive risk assessments and report findings across infrastructure and application configurations. I also reverse engineer software binaries and dynamically analyze their behavior to assess third-party software supply chain risk to the organization. I plan, deploy and maintain cloud infrastructure for both analysis and hosting internal applications. Lastly, I also develop said applications to assist in GRC-related workflows. 
+## Lead Analyst - Software Supply Chain Security
+I focus on software supply chain security: determining what third-party software actually does, rather than what its documentation or a vendor questionnaire claims. My work centers primarily on freeware and open-source software, with analysis of commercial and enterprise software as needed. My day-to-day includes:
+
+- **Reverse engineering** third-party binaries and dynamically analyzing their runtime behavior
+- **Supply chain and dependency analysis** to surface risky, vulnerable, or unexpected components
+- **SBOM generation and analysis** to build and validate software inventories
+- **Risk assessments** that translate technical findings into actionable third-party risk decisions
+- **Cloud infrastructure** planning, deployment, and maintenance via Infrastructure-as-Code (IaC), for both analysis environments and internal application hosting
+- **Internal tooling** development to automate security and risk workflows
 
 ## Security Researcher
-I ***also*** work as an independent security researcher, where I test applications and infrastructure for vulnerabilities and have publicly disclosed CVEs. I also develop security tooling and malware analysis labs.
+I ***also*** work as an independent security researcher. My research includes:
+
+- **Vulnerability research** on Windows desktop applications, from binary analysis through proof of concept
+- **Coordinated disclosure** of findings to vendors and coordinators, resulting in published CVEs and vendor acknowledgments
+- **Security tooling** development in Go for malware analysis and supply chain risk
+- **Security research labs** built and deployed with Terraform
+- **Malware analysis content** for Hack The Box
 
 # systeminfo
 
@@ -16,7 +29,7 @@ I ***also*** work as an independent security researcher, where I test applicatio
 HTB Malware Analysis Sherlock - [Loggy](https://app.hackthebox.com/sherlocks/Loggy) & [Malevolent ModMaker](https://app.hackthebox.com/sherlocks/Malevolent%20ModMaker)
 
 ## Skills
-I have a background in DFIR and CTI but I've acquired multiple other skills over the years, including cyber risk analysis, malware research, ethical hacking, Infrastructure-as-Code (IaC), AI and LLM engineering, GRC engineering, and programming/scripting (primarily Go & HCL). 
+My background is in DFIR and CTI. Since then I've expanded into reverse engineering, malware research, software supply chain security (SBOM and dependency analysis), cyber risk analysis, ethical hacking, Infrastructure-as-Code (IaC), AI and LLM engineering, and programming/scripting (primarily Go & HCL).
 
 ## Certifications 
 Defensive Security - 
