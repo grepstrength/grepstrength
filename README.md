@@ -13,7 +13,7 @@ I focus on software supply chain security: determining what third-party software
 ## Security Researcher
 I ***also*** work as an independent security researcher. My research includes:
 
-- **Vulnerability research** on Windows desktop applications, from binary analysis through proof of concept
+- **Vulnerability research** on desktop and mobile applications, from binary analysis through proof of concept
 - **Coordinated disclosure** of findings to vendors and coordinators, resulting in published CVEs and vendor acknowledgments
 - **Security tooling** development in Go for malware analysis and supply chain risk
 - **Security research labs** built and deployed with Terraform
